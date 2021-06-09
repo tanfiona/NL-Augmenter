@@ -1,3 +1,7 @@
+#for EnglishInflectionalVariation
+lemminflect==0.2.2
+nltk==3.6.2
+
 # for ReplaceNumericalValues
 num2words==0.5.10
 word2number==1.1
